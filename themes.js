@@ -6,7 +6,7 @@
    Temas: "normal" | "halloween" | "navidad" | "verano"                                  */
 var GH_OWNER = "juegosgratisyang-commits";
 var GH_REPO = "Spanish-Girona-Roleplay";
-var DEFAULT_THEME = "Navidad", ";
+var DEFAULT_THEME = "Normal",", ";
 /* ====================================== */
 (function () {
   var T = {
